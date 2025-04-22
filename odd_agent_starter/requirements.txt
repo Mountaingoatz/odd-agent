@@ -1,0 +1,29 @@
+langchain>=0.2.1
+langgraph>=0.0.20
+langchain-community>=0.0.27
+openai>=1.15.0
+tiktoken
+
+# data wrangling
+pandas
+requests
+beautifulsoup4
+lxml
+
+# pdf / parsing
+pypdf>=3.17.0
+pdfplumber
+
+# vector store & ML
+chromadb>=0.4.22
+
+# web‑app / orchestration
+streamlit>=1.34.0
+prefect>=2.14.0
+
+# persistence
+sqlalchemy
+pgvector
+psycopg2-binary
+
+python-dotenv

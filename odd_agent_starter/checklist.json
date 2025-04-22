@@ -1,0 +1,26 @@
+{
+  "sections": [
+    {
+      "name": "Firm Overview",
+      "questions": [
+        "Describe the firm's ownership structure.",
+        "List key personnel changes in the past 12 months."
+      ]
+    },
+    {
+      "name": "Regulatory",
+      "questions": [
+        "Provide details of any SEC, CFTC, or FCA examinations in the past 3 years.",
+        "Confirm ADV Part 1 & 2 are up to date."
+      ]
+    },
+    {
+      "name": "Operations & Controls",
+      "questions": [
+        "Who are the fund administrators and auditors?",
+        "Describe the valuation policy.",
+        "Outline cyber\u2011security controls in place."
+      ]
+    }
+  ]
+}
