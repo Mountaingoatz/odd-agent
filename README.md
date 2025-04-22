@@ -9,7 +9,7 @@ Everything runs in Docker, so you can spin it up with **zero local setup**.
 
 ```bash
 # 1  Clone the repo
-git clone https://github.com/YOUR_USERNAME/odd-agent.git
+git clone https://github.com/Mountaingoatz/odd-agent.git
 cd odd-agent
 
 # 2  Create a .env file with your API keys
